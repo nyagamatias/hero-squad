@@ -1,0 +1,33 @@
+body {
+  background-image: url(../images/Superheroes.jpg);
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .header {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: .05rem solid #e5e5e5;
+    margin-bottom: 2rem;
+  }
+
+  .header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 3rem;
+    text-align: center;
+  }
+
+  .jumbotron {
+    text-align: center;
+    border-bottom: .05rem solid #e5e5e5;
+    margin-bottom: 2rem;
+  }
+
+  .jumbotron .btn {
+    padding: .75rem 1.5rem;
+    font-size: 1.5rem;
+    width: 25rem;
+    margin-bottom: 2rem;
+  }
