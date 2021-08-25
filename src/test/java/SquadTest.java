@@ -63,4 +63,3 @@ public class SquadTest {
         assertTrue(testSquad.getHeroes().contains(testHero));
     }
 }
-

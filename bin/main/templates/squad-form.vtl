@@ -1,0 +1,24 @@
+<div class="jumbotron">
+  <h2 class="display-3">Add a new squad</h2>
+
+  <!-- <p>Add a squad here:</p> -->
+  <br>
+  <form action="/squads" method="post">
+    <div class="form-group">
+      <label for="name">Squad name</label>
+      <input id="name" name="name" type="text" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <label for="size">Squad size</label>
+      <input id="size" name="size" type="number" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <label for="cause">Squad cause</label>
+      <input id="cause" name="cause" type="text" class="form-control">
+    </div>
+
+    <button type="submit" class="btn btn-danger">Add Squad</button>
+  </form>
+</div>
