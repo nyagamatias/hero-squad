@@ -11,11 +11,13 @@ This is an app made using Java and Spark where users can enter a squad and heroe
 ## Setup/Installation Requirements
 * Clone the project 
 * Open the command line
-```
+
 ## Technologies Used
-` Java `,`Spark`,`Gradle`
+  ` Java `,`Spark`,`Gradle`
+
 ## Support and contact details
 You can contact me through my Github for any problems or improvements to my app.
+
 ### License
 **MIT License**
 
